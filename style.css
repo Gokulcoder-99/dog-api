@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: darkgray;
+}
+h1{
+  text-align: center;
+  background-color: palegoldenrod;
+  color: brown;
+}
+img{
+    width: 100%;
+    height: 600px;
+}
+button{
+    width: 100px;
+    height: 50px;
+    background-color: lime;
+    color: aliceblue;
+    margin-left : 45%;
+}
